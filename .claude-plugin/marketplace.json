@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "local-plugins",
+  "version": "1.0.0",
+  "description": "Local plugins for personal use",
+  "owner": {
+    "name": "Alex"
+  },
+  "plugins": [
+    {
+      "name": "session-manager",
+      "description": "Session management and project initialization for Claude Code",
+      "version": "1.0.0",
+      "source": "./plugins/session-manager",
+      "category": "productivity"
+    }
+  ]
+}

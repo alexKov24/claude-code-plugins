@@ -1,0 +1,8 @@
+{
+  "name": "session-manager",
+  "version": "1.0.0",
+  "description": "Session management and project initialization for Claude Code",
+  "author": {
+    "name": "Alex"
+  }
+}
