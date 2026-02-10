@@ -1,7 +1,6 @@
 ---
-name: Rewrite Commit History
+name: rewrite-history
 description: This skill should be used when the user asks to "rewrite commit history", "clean up commits", "reorganize commits", "squash and restructure commits", "rebuild commit history", "rewrite branch commits", "clean up my branch", "prepare branch for PR", "split commits into logical groups", or mentions wanting cleaner/better commits before merging. Automates the process of analyzing a messy feature branch, proposing a clean commit structure grouped by feature area, and executing the rewrite after user approval.
-version: 0.1.0
 ---
 
 # Rewrite Commit History
