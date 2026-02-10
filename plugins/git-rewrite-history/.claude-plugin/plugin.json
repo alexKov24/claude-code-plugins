@@ -1,0 +1,8 @@
+{
+  "name": "git-rewrite-history",
+  "version": "1.0.0",
+  "description": "Rewrite messy git commit history into clean, logical commits grouped by feature area",
+  "author": {
+    "name": "Alex"
+  }
+}
