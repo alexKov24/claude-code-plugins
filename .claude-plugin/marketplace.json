@@ -13,6 +13,13 @@
       "version": "1.0.0",
       "source": "./plugins/session-manager",
       "category": "productivity"
+    },
+    {
+      "name": "git-rewrite-history",
+      "description": "Rewrite messy git commit history into clean, logical commits grouped by feature area",
+      "version": "1.0.0",
+      "source": "./plugins/git-rewrite-history",
+      "category": "productivity"
     }
   ]
 }
