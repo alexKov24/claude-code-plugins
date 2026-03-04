@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-plugins",
+  "version": "1.0.0",
+  "description": "Claude Code plugins — session manager, git history rewriter",
+  "keywords": ["pi-package"],
+  "pi": {
+    "skills": [
+      "./plugins/git-rewrite-history/skills"
+    ]
+  }
+}
