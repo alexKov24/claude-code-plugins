@@ -5,7 +5,8 @@
   "keywords": ["pi-package"],
   "pi": {
     "skills": [
-      "./plugins/git-rewrite-history/skills"
+      "./plugins/git-rewrite-history/skills",
+      "./plugins/session-manager/skills"
     ]
   }
 }
