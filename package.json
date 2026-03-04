@@ -6,7 +6,8 @@
   "pi": {
     "skills": [
       "./plugins/git-rewrite-history/skills",
-      "./plugins/session-manager/skills"
+      "./plugins/session-manager/skills",
+      "./plugins/specwright/skills"
     ]
   }
 }
